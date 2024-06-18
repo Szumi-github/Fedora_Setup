@@ -35,4 +35,18 @@ sudo dnf install polkit
 Install from Software app:
 - GNOME Tweaks
 - Extensions
+- Chrome
+
+To install:
+- Parsec
+- Syncthing
+- KVM/Qemu (with running Nvidia gpu)
+  Inside Wind11 VM:
+  - Inventor
+  - Fusion360
+  - WinProLadder
+  - EasyBuilderPRO
+ 
+- VSCode
+- Mail -> Thunderbird ?
 - 
