@@ -31,3 +31,8 @@ sudo dnf copr enable sunwire/envycontrol
 sudo dnf install python3-envycontrol
 sudo dnf install polkit
 ```
+
+Install from Software app:
+- GNOME Tweaks
+- Extensions
+- 
