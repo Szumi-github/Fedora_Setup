@@ -36,6 +36,7 @@ Install from Software app:
 - GNOME Tweaks
 - Extensions
 - Chrome
+- Virtual Machine Manager
 
 To install:
 - Parsec
