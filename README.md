@@ -45,6 +45,10 @@ sudo systemctl start libvirtd
 sudo systemctl enable libvirtd
 ```
 
+Install Win11 in VM following this article:
+https://sysguides.com/install-a-windows-11-virtual-machine-on-kvm
+
+
 To install:
 - ZeroTier:
   ```bash
