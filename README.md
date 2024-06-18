@@ -4,7 +4,8 @@ Fedaora on MSI Laptop setup
 Links: 
 - https://www.youtube.com/watch?v=m8xj2Py8KPc&t=605s
 - https://blandmanstudios.medium.com/tutorial-the-ultimate-linux-laptop-for-pc-gamers-feat-kvm-and-vfio-dee521850385
-- 
+- https://www.youtube.com/watch?v=cTNkb-qG0Dc&t=232s
+- https://github.com/bayasdev/envycontrol
 
 # 0. After installation:
 ```bash
