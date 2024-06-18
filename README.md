@@ -38,6 +38,13 @@ Install from Software app:
 - Chrome
 - Virtual Machine Manager
 
+Install KVM/QEMU Virtualization support:
+```bash
+sudo dnf group install --with-optional virtualization
+sudo systemctl start libvirtd
+sudo systemctl enable libvirtd
+```
+
 To install:
 - Parsec
 - Syncthing
