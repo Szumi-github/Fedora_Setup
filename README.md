@@ -46,6 +46,10 @@ sudo systemctl enable libvirtd
 ```
 
 To install:
+- ZeroTier:
+  ```bash
+  curl -s https://install.zerotier.com | sudo bash
+  ```
 - Parsec
 - Syncthing
 - KVM/Qemu (with running Nvidia gpu)
