@@ -2,10 +2,10 @@
 Fedaora on MSI Laptop setup
 
 Links: 
-- https://www.youtube.com/watch?v=m8xj2Py8KPc&t=605s
-- https://blandmanstudios.medium.com/tutorial-the-ultimate-linux-laptop-for-pc-gamers-feat-kvm-and-vfio-dee521850385
-- https://www.youtube.com/watch?v=cTNkb-qG0Dc&t=232s
-- https://github.com/bayasdev/envycontrol
+- [https://www.youtube.com/watch?v=m8xj2Py8KPc&t=605s](https://www.youtube.com/watch?v=m8xj2Py8KPc&t=605s)
+- [https://blandmanstudios.medium.com/tutorial-the-ultimate-linux-laptop-for-pc-gamers-feat-kvm-and-vfio-dee521850385](https://blandmanstudios.medium.com/tutorial-the-ultimate-linux-laptop-for-pc-gamers-feat-kvm-and-vfio-dee521850385)
+- [https://www.youtube.com/watch?v=cTNkb-qG0Dc&t=232s](https://www.youtube.com/watch?v=cTNkb-qG0Dc&t=232s)
+- [https://github.com/bayasdev/envycontrol](https://github.com/bayasdev/envycontrol)
 
 # 0. After installation:
 ```bash
@@ -46,7 +46,7 @@ sudo systemctl enable libvirtd
 ```
 
 Install Win11 in VM following this article:
-https://sysguides.com/install-a-windows-11-virtual-machine-on-kvm
+[https://sysguides.com/install-a-windows-11-virtual-machine-on-kvm](https://sysguides.com/install-a-windows-11-virtual-machine-on-kvm)
 
 
 To install:
@@ -64,17 +64,17 @@ To install:
   - EasyBuilderPRO
 
 To create Win11 bootable usb:
-Link: https://www.youtube.com/watch?v=6db5F9C5p_k
+[Link: https://www.youtube.com/watch?v=6db5F9C5p_k](https://www.youtube.com/watch?v=6db5F9C5p_k)
 ```bash
 sudo dnf install gparted
 sudo gparted 
 ```
 
 After installing Windows11 following this:
-Link: https://www.youtube.com/watch?v=6UQZ5oQg8XA
+[Link: https://www.youtube.com/watch?v=6UQZ5oQg8XA](https://www.youtube.com/watch?v=6UQZ5oQg8XA)
 
 install refind for nicer boot menu:
-Link: https://www.youtube.com/watch?v=HZd4QodEFhA
+[Link: https://www.youtube.com/watch?v=HZd4QodEFhA](https://www.youtube.com/watch?v=1vEkn_kcXas)
 
 - VSCode
 - Mail -> Thunderbird ?
