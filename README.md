@@ -62,7 +62,14 @@ To install:
   - Fusion360
   - WinProLadder
   - EasyBuilderPRO
- 
+
+To create Win11 bootable usb:
+Link: https://www.youtube.com/watch?v=6db5F9C5p_k
+```bash
+sudo dnf install gparted
+sudo gparted 
+```
+
 - VSCode
 - Mail -> Thunderbird ?
 - 
