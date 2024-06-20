@@ -70,6 +70,12 @@ sudo dnf install gparted
 sudo gparted 
 ```
 
+After installing Windows11 following this:
+Link: https://www.youtube.com/watch?v=6UQZ5oQg8XA
+
+install refind for nicer boot menu:
+Link: https://www.youtube.com/watch?v=HZd4QodEFhA
+
 - VSCode
 - Mail -> Thunderbird ?
 - 
